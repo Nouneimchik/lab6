@@ -30,5 +30,5 @@ let weeklyCalories2 = [
     { day: "saturday", calories: 2280 },
     { day: "sunday", calories: 2610 }
     ];
-console.log(calcAverageCalories(weeklyCalories)); // 2270
+console.log(calcAverageCalories(weeklyCalories2)); // 2270
 console.log(calcAverageCalories([])); // 0

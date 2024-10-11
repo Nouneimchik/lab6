@@ -31,4 +31,8 @@ let weeklyCalories2 = [
     { day: "sunday", calories: 2610 }
     ];
 console.log(calcAverageCalories(weeklyCalories2)); // 2270
+<<<<<<< HEAD
 console.log(calcAverageCalories([])); // 0
+=======
+console.log(calcAverageCalories([])); // 0
+>>>>>>> 58f6814b45f7903fe1e4ff43d0f9f3e99df8f88d
